@@ -1,0 +1,7 @@
+// Sort without arguments (IT WON'T NUMERICALLY SORT, PAY ATTETION!!!)
+
+const numbers = [190, 400, 530, 1500, 770];
+
+numbers.sort(); // WITHOUT ARGUMENTS THE ARRAY'S VALUES ARE CONSIDERED STRINGS, SO IT'LL SORT ACCORDING TO THE ASCII ORDER.
+
+console.log(numbers);
