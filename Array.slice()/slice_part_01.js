@@ -1,4 +1,4 @@
-// Copy values from array with one argument
+// Copy values from array without arguments.
 
 const colors = ['red', 'blue', 'green', 'yellow', 'brown', 'purple'];
 
