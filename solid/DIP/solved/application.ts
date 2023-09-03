@@ -1,4 +1,5 @@
 import { IServiceFactory } from './serviceFactoryInterface';
+import { Service } from './serviceImplementation';
 
 export class Application {
   private serviceFactory: IServiceFactory;
@@ -8,7 +9,7 @@ export class Application {
   }
 
   public start(): void {
-    const service = this.serviceFactory.makeSvc();
+    const service: Service = this.serviceFactory.makeSvc();
     service.action();
   }
 }
