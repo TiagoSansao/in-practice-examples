@@ -4,5 +4,3 @@ import { UOpsFactory } from './uOpsFactory';
 const u1ops: U1Ops = UOpsFactory.create('U1Ops');
 
 u1ops.op1();
-
-console.log(u1ops.op1());
