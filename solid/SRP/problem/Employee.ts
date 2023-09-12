@@ -3,5 +3,5 @@ abstract class Employee {
   public reportHours(): void {}
   public save(): void {}
 
-  private getHours(): void {}
+  private getRegularHours(): void {}
 }

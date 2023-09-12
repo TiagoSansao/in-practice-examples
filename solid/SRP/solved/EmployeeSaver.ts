@@ -1,5 +1,5 @@
 import { EmployeeData } from './EmployeeData';
 
 abstract class EmployeeSaver {
-  public save(): void {}
+  public save(employeeData: EmployeeData): void {}
 }

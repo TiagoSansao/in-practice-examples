@@ -1,5 +1,5 @@
 import { EmployeeData } from './EmployeeData';
 
 abstract class payCalculator {
-  public calculatePay(): void {}
+  public calculatePay(employeeData: EmployeeData): void {}
 }
