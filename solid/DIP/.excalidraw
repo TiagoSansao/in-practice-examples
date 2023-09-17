@@ -1,0 +1,47 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "mNgAJ4hY3rRWpAhb2hJ_y",
+      "type": "text",
+      "x": 572.9973754882812,
+      "y": 329.3255310058594,
+      "width": 629.6394653320312,
+      "height": 350,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "roundness": null,
+      "seed": 2128915340,
+      "version": 475,
+      "versionNonce": 1705919756,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1693706812852,
+      "link": null,
+      "locked": false,
+      "text": "\"O sistema mais flexível é aquele que depende apenas \nde abstrações, e não de itens concretos.\"\n\nNão é possível um sistema que obedeça ao DIP 100%; \nEx: main.ts, index.ts\n\nNunca devemos:\n- Derivar de classes voláteis\n- Referir a classes voláteis\n- Sobrescrever funções concretas\n \nSolução:\n- Referenciar abstrações, interfaces\n- Maioria das vezes teremos de usar o Factory design pattern",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 343,
+      "containerId": null,
+      "originalText": "\"O sistema mais flexível é aquele que depende apenas \nde abstrações, e não de itens concretos.\"\n\nNão é possível um sistema que obedeça ao DIP 100%; \nEx: main.ts, index.ts\n\nNunca devemos:\n- Derivar de classes voláteis\n- Referir a classes voláteis\n- Sobrescrever funções concretas\n \nSolução:\n- Referenciar abstrações, interfaces\n- Maioria das vezes teremos de usar o Factory design pattern",
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
